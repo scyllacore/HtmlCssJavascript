@@ -1,0 +1,42 @@
+
+body{
+    background-image: url(green.jpg);
+    background-size: cover;
+
+    color : white;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    text-align: center;
+    
+    h1{
+        color : goldenrod;
+    }
+
+}
+
+#message-el{
+   font-style: italic;
+}
+
+button{
+    background : goldenrod;
+    border :none;    
+
+    margin : 3px;
+    width : 90px;   
+    
+    color : darkgreen;
+    font-size : 0.8em;
+    font-weight: bold;
+    border-radius: 0.7rem;
+
+    cursor: pointer;
+
+}
+
+#player-el{
+    font-size: 0.65em;
+    text-decoration: underline;
+}
+

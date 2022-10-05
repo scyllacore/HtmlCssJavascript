@@ -1,0 +1,14 @@
+input {
+  width: 3%;
+  margin: 0.5em;
+  padding: 0.5em;
+  display: block;
+  font-size: 2ex;
+  text-align: center;
+}
+
+button {
+  margin: 1em;
+  padding: 1em;
+}
+/*# sourceMappingURL=index.css.map */
